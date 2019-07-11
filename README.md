@@ -51,5 +51,7 @@ Please add yourself! (name / affiliation / twitter handle)
 * If we are actually user-testing a prototype/UI, we can further develop it
 *
 
+# working idea 2: feel free to add your own
+
 
 
