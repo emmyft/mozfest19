@@ -22,7 +22,6 @@ Please add yourself! (name / affiliation / twitter handle)
 6. How will you deal with varying numbers of participants in your session? What if 30 participants attend? What if there are 3?
 7. Session format
    Choose 1 of the following 3:
-
   * Learning Forum: Sessions under this format develop and implement ideas for improvement, exchange or review
   * Gallery: This format hosts interactive exhibits, installations, games, stalls- designed for 1:1 self driven experiences or small group activities. Often these experiences or activities are not scheduled time blocks but take place over the day or weekend allowing access and interaction at any time.
   * Workshop: Sessions under this format require hands-on making, hacking and prototyping. These sessions will ask participants to create and build code, objects or crafts
