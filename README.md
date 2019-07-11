@@ -30,4 +30,4 @@ Please add yourself! (name / affiliation / twitter handle)
 9. Language, and whether we would need translation
 
 ## Preliminary ideas
-* Open citation and research evaluation
+* Democratising citation and research evaluation
