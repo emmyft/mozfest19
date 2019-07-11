@@ -5,13 +5,13 @@ This is a MozFest 2019 proposal in progress
 
 ## Contributors
 Please add yourself! (name / affiliation / twitter handle)
-..* Emmy Tsang / eLife / @emmy_ft
+* Emmy Tsang / eLife / @emmy_ft
 
 ## Useful Links
-..* [Call for Proposals](https://www.mozillafestival.org/en/proposals/)
-..* [Openness Space description](https://www.mozillafestival.org/en/spaces/openness/)
-..* [Proposal resource toolkit](https://www.mozillafestival.org/documents/21/mozfest-2019-session-proposal-guide.pdf)
-..* [Proposed sessions for Openness track](https://public.zenkit.com/collections/Mh_HcRV99/views/8w_cMlF4v?hide=views,workspaceLists,listName)
+* [Call for Proposals](https://www.mozillafestival.org/en/proposals/)
+* [Openness Space description](https://www.mozillafestival.org/en/spaces/openness/)
+* [Proposal resource toolkit](https://www.mozillafestival.org/documents/21/mozfest-2019-session-proposal-guide.pdf)
+* [Proposed sessions for Openness track](https://public.zenkit.com/collections/Mh_HcRV99/views/8w_cMlF4v?hide=views,workspaceLists,listName)
 
 ## Questions to answer
 1. What is the name of your session? 
@@ -32,4 +32,4 @@ Please add yourself! (name / affiliation / twitter handle)
 9. Language, and whether we would need translation
 
 ## Preliminary ideas
-..* Open citation and research evaluation
+* Open citation and research evaluation
