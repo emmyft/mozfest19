@@ -8,6 +8,9 @@ Please add yourself! (name / affiliation / twitter handle)
 * Emmy Tsang / eLife / @emmy_ft
 *
 
+## Working ideas + discussions - please see [issues](https://github.com/emmyft/mozfest19/issues)
+Please contribute new ideas by opening a new issue; or comment on existing ones!
+
 ## Useful Links
 * [Call for Proposals](https://www.mozillafestival.org/en/proposals/)
 * [Openness Space description](https://www.mozillafestival.org/en/spaces/openness/)
@@ -29,7 +32,6 @@ Please add yourself! (name / affiliation / twitter handle)
 8. Accessibility requirements
 9. Language, and whether we would need translation
 
-## Working ideas - please see open [issues](https://github.com/emmyft/mozfest19/issues)
 
 
 
