@@ -19,9 +19,11 @@ Please contribute new ideas by opening a new issue; or comment on existing ones!
 
 ## Questions to answer
 1. What is the name of your session? 
+
 Open science soapbox (#ossoapbox)
 
 2. What is the goal or outcome of your session?
+
 Gather open-source innovators and technologists interested in using AI and machine learning to drive forward the ways we discover, consume, share and evaluate research, to foster collaboration within the community and to encourage contributions and participation. 
 
 3. What will happen in your session?
@@ -37,16 +39,20 @@ Gather open-source innovators and technologists interested in using AI and machi
 * Depending on the level of enthusiasm, we could start a newsletter to keep the community of innovators updated and engaged?
 
 5. How much time you will need? (< 60min / 60min / 90min / All weekend, as an installation, exhibit or drop-in session)
+
 Depending on the number of presentations, 60-90mins
 
 6. How will you deal with varying numbers of participants in your session? What if 30 participants attend? What if there are 3?
+
 If nobody at the venue attends, we would have more in-depth discussions and feedback between the presenters. 
+
 We would love to have more participants of all levels of prior knowledge! This will really allow presenters to get more diverse feedback and hone their communication skills. 
 
 7. Session format - choose 1 of the following 3:
    * Learning Forum: Sessions under this format develop and implement ideas for improvement, exchange or review
    * Gallery: This format hosts interactive exhibits, installations, games, stalls- designed for 1:1 self driven experiences or small group activities. Often these experiences or activities are not scheduled time blocks but take place over the day or weekend allowing access and interaction at any time.
    * Workshop: Sessions under this format require hands-on making, hacking and prototyping. These sessions will ask participants to create and build code, objects or crafts
+
 I think learning forum?
 
 8. Accessibility requirements
@@ -54,6 +60,7 @@ I think learning forum?
 * We can try to use Google slide's live captioning to provide captions? Not sure practically if that would work.
 
 9. Language, and whether we would need translation
+
 English – not sure if translation is realistic.
 
 
