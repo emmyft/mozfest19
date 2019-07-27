@@ -26,7 +26,9 @@ Opening research with AI
 
 2. What is the goal or outcome of your session?
 
-Gather open-source innovators and technologists interested in using AI and machine learning to drive forward the ways we discover, consume, share and evaluate research, to foster collaboration within the community and to encourage contributions and participation. Presenters will get constructive, diverse feedback from other technologists and open research enthusiasts, and participants would learn about the application of cutting-edge machine learning and AI technologies in open science and opportunities to contribute.
+There are currently many projects and initiatives driving forward research communication and open science using emerging technologies and algorithms in AI and machine learning. We would like to use this session to facilitate knowledge exchange and foster collaborations between these projects and their creators/contributors, and also to encourage contributions and participation from MozFest attendees who are interested in this problem domain, but may be unaware of opportunities.
+
+Presenters will get constructive, diverse feedback from other technologists and open research enthusiasts, and participants would learn about the application of cutting-edge machine learning and AI technologies in open science and opportunities to contribute.
 
 3. What will happen in your session?
 * We will recruit innovators working in this problem space to give lightning talks (3-5 mins) on their current projects and/or ideas. These will be followed by a Q&A session of 5 mins. 
@@ -58,7 +60,7 @@ We would love to have more participants of all levels of prior knowledge! This w
    * Gallery: This format hosts interactive exhibits, installations, games, stalls- designed for 1:1 self driven experiences or small group activities. Often these experiences or activities are not scheduled time blocks but take place over the day or weekend allowing access and interaction at any time.
    * Workshop: Sessions under this format require hands-on making, hacking and prototyping. These sessions will ask participants to create and build code, objects or crafts
 
-Learning forum?
+Learning forum
 
 8. Accessibility requirements
 * Attendees need to understand English.
