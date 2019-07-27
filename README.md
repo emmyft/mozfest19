@@ -1,12 +1,14 @@
 # mozfest19
-This is a MozFest 2019 proposal in progress
+This is a MozFest 2019 proposal ~~in progress~~ finalised. 
+
+**TO BE SUBMITTED BY 28/7**
 
 **Submission deadline: Aug 1**
 
 ## Contributors
 Please add yourself! (name / affiliation / twitter handle)
 * Emmy Tsang / eLife / @emmy_ft
-*
+* 
 
 ## Working ideas + discussions - please see [issues](https://github.com/emmyft/mozfest19/issues)
 Please contribute new ideas by opening a new issue; or comment on existing ones!
