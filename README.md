@@ -30,6 +30,8 @@ There are currently many projects and initiatives driving forward research commu
 
 Presenters will get constructive, diverse feedback from other technologists and open research enthusiasts, and participants would learn about the application of cutting-edge machine learning and AI technologies in open science and opportunities to contribute.
 
+This session follows the footsteps of #ossoapbox session from previous MozFests.
+
 3. What will happen in your session?
 * We will recruit innovators working in this problem space to give lightning talks (3-5 mins) on their current projects and/or ideas. These will be followed by a Q&A session of 5 mins. 
 * Prior to the session, we will collect a brief summary of the project from presenters, focussed on requests for feedback/comments so to facilitate 
