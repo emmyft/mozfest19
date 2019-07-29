@@ -35,7 +35,7 @@ This session follows in the footsteps of #ossoapbox sessions from previous MozFe
 3. What will happen in your session?
 * We will recruit innovators working in this problem space to give lightning talks (3-5 mins) on their current projects and/or ideas. These will be followed by a Q&A session of 5 mins. 
 * Prior to the session, we will collect a brief summary of the project from presenters, focussed on requests for feedback/comments so to facilitate 
-* Spontaneous presentations are encouraged!
+* We encourage presentations to be focussed on ways to contribute and opportunities for integration with other open tool stacks (we may provide some guiding questions) Spontaneous presentations are encouraged!
 * Participants are encouraged to live tweet via the hashtag #ossoapbox
 * The whole session will be live-streamed if the quality of internet can support this; remote participants can present and/or ask questions
 * We may get a sketch noter and/or microblog these presentations
