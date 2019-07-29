@@ -6,9 +6,10 @@ This is a MozFest 2019 proposal ~~in progress~~ finalised.
 **Submission deadline: Aug 1**
 
 ## Contributors
-Please add yourself! (name / affiliation / twitter handle)
-* Emmy Tsang / eLife / @emmy_ft
-* 
+Please add yourself! (name / Github handle)
+* Emmy Tsang / @emmyft
+* Mateusz Kuzak / @mkuzak
+* Sarah Steward / @biostew
 
 ## Working ideas + discussions - please see [issues](https://github.com/emmyft/mozfest19/issues)
 Please contribute new ideas by opening a new issue; or comment on existing ones!
