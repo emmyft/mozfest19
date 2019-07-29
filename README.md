@@ -9,7 +9,7 @@ This is a MozFest 2019 proposal ~~in progress~~ finalised.
 Please add yourself! (name / Github handle)
 * Emmy Tsang / @emmyft
 * Mateusz Kuzak / @mkuzak
-* Sarah Steward / @biostew
+* Sarah Stewart / @biostew
 
 ## Working ideas + discussions - please see [issues](https://github.com/emmyft/mozfest19/issues)
 Please contribute new ideas by opening a new issue; or comment on existing ones!
