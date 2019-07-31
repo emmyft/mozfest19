@@ -1,7 +1,7 @@
 # mozfest19
 This is a MozFest 2019 proposal ~~in progress~~ finalised. 
 
-**TO BE SUBMITTED BY 28/7**
+**THIS PROPOSAL HAS NOW BEEN SUBMITTED! THANK YOU ALL <3**
 
 **Submission deadline: Aug 1**
 
