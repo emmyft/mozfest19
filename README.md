@@ -1,4 +1,6 @@
 # mozfest19
+Unfortunately the proposal is not accepted - thank you everyone for your contributions!
+
 This is a MozFest 2019 proposal ~~in progress~~ finalised. 
 
 **THIS PROPOSAL HAS NOW BEEN SUBMITTED! THANK YOU ALL <3**
